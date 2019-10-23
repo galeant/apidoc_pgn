@@ -1,0 +1,13 @@
+{
+    "name": "PGN POPAY",
+    "version": "0.1.0",
+    "description": "API docs for api pgn",
+    "apidoc": {
+      "title": "Pgn api",
+      "url" : "http://popayapi.local/index.php"
+    },
+    "template": {
+      "withCompare": true,
+      "withGenerator": true
+    }
+}
